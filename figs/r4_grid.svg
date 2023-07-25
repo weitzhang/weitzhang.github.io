@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000" role="img" aria-labelledby="title description">
+  <title id="title">Reconfigurable reflectarray material characterization</title>
+  <desc id="description">A 2 by 2 composite of four figures showing reflector configurations, radiation patterns, a dielectric slab measurement, and material parameter error maps.</desc>
+  <rect width="1000" height="1000" fill="#ffffff"/>
+  <rect x="0" y="0" width="490" height="490" fill="#f4f6f5"/>
+  <rect x="510" y="0" width="490" height="490" fill="#f4f6f5"/>
+  <rect x="0" y="510" width="490" height="490" fill="#f4f6f5"/>
+  <rect x="510" y="510" width="490" height="490" fill="#f4f6f5"/>
+  <image x="10" y="10" width="470" height="470" preserveAspectRatio="xMidYMid meet" xlink:href="r4_fig1.png"/>
+  <image x="520" y="10" width="470" height="470" preserveAspectRatio="xMidYMid meet" xlink:href="r4_fig2.png"/>
+  <image x="10" y="520" width="470" height="470" preserveAspectRatio="xMidYMid meet" xlink:href="r4_fig3.png"/>
+  <image x="520" y="520" width="470" height="470" preserveAspectRatio="xMidYMid meet" xlink:href="r4_fig4.png"/>
+</svg>
